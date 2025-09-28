@@ -4,7 +4,7 @@ NIM : 2509116038 <br>
 Kelas : A 2025 <br>
 
 #Tampilan Login Role Lurah
-<img width="479" height="136" alt="image" src="https://github.com/user-attachments/assets/34090100-9162-4f14-b5d9-6fee8ab18509" />
+<br> <img width="479" height="136" alt="image" src="https://github.com/user-attachments/assets/34090100-9162-4f14-b5d9-6fee8ab18509" />
 
 Tampilan Login Lurah dengan menginput Username dan password seperti pada gambar <br>
 
@@ -36,15 +36,17 @@ Pilihan 3 hanya mengubah alamat dan jenis bantuan saja
 #Pilihan 4
 <img width="403" height="134" alt="image" src="https://github.com/user-attachments/assets/92a7f277-25a3-40df-8baf-75ad37a77b9c" />
 
-Pilihan 4
-<img width="403" height="134" alt="image" src="https://github.com/user-attachments/assets/91425be5-efdf-4602-811f-5e4fb4dc65cd" />
-
 Pilihan 4 akan menanyakan jika apakah kita yakin ingin menghapus data apa tidak, jika ya maka program akan menghapus data yang dimaksud
+
+<img width="406" height="321" alt="image" src="https://github.com/user-attachments/assets/b09e4116-c997-4d6d-af3f-12f033df3882" />
+
+Jika di pilihan 4 pada pertanyaan ya/tidak, memilih tidak maka akan muncul pesan seperti diatas
+
 
 #Tampilan Login role warga
 <img width="359" height="76" alt="image" src="https://github.com/user-attachments/assets/63257422-ec17-4b57-8ddf-f61478c4ec96" />
 
-Warga memiliki username dan password yang berbeda dengan
+Warga memiliki username dan password yang berbeda dengan Lurah
 
 #Tampilan Menu Warga
 <img width="304" height="190" alt="image" src="https://github.com/user-attachments/assets/298718ff-74c1-4a81-8bb1-d045f00af3b5" />
