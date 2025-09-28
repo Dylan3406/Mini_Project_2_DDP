@@ -42,3 +42,78 @@ Pilihan 4
 Pilihan 4 akan menanyakan jika apakah kita yakin ingin menghapus data apa tidak, jika ya maka program akan menghapus data yang dimaksud
 
 #Tampilan Login role warga
+<img width="359" height="76" alt="image" src="https://github.com/user-attachments/assets/63257422-ec17-4b57-8ddf-f61478c4ec96" />
+
+Warga memiliki username dan password yang berbeda dengan
+
+#Tampilan Menu Warga
+<img width="304" height="190" alt="image" src="https://github.com/user-attachments/assets/298718ff-74c1-4a81-8bb1-d045f00af3b5" />
+
+Menu warga hanya memiliki 3 opsi pilihan
+
+#Pilihan 1
+<img width="650" height="138" alt="image" src="https://github.com/user-attachments/assets/6013ba2d-3e7c-4e9b-91fb-0271ea6c70d5" />
+
+Sama pada role lurah tapi saya memakai contoh nama yang berbeda disini
+
+#Pilihan 2
+<img width="357" height="804" alt="image" src="https://github.com/user-attachments/assets/84254f09-2bd5-4c2b-9d8d-01d0e0163c97" />
+
+Nama yang ditambahkan pada pilihan 1 pun tersimpan dan terlihat jika memilih pilihan 2
+
+#Kemungkinan Eror
+<img width="472" height="239" alt="image" src="https://github.com/user-attachments/assets/e9e6b2ac-98fb-4108-8a93-cd58d4e091f2" />
+
+Jika Memasukkan string di menu maka akan muncul pesan seperti diatas
+
+<img width="457" height="259" alt="image" src="https://github.com/user-attachments/assets/4d304a2f-ad5d-4f78-bd09-8495bf43aef2" />
+
+Jika memasukkan seperti ctrl + c maka akan muncul pesan seperti diatas
+
+<img width="507" height="323" alt="image" src="https://github.com/user-attachments/assets/3d8edad6-c212-43d3-a31f-cad6059e8dc0" />
+
+Pada pilihan 1 jika nik yang dimasukkan bukanlah angka maka akan terjadi error seperti diatas
+
+<img width="451" height="293" alt="image" src="https://github.com/user-attachments/assets/0dc606c5-9813-4cfd-b1aa-02ddb21c1886" />
+
+Pada pilihan 1 jika yang diinput seperti ctrl + c maka akan muncul pesan seperti diatas
+
+<img width="507" height="299" alt="image" src="https://github.com/user-attachments/assets/d1ed19a1-e9da-4de8-a965-cec9fd6b0ed4" />
+
+Pada pilihan 3 jika nik yang dimasukkan bukanlah angka maka akan terjadi error seperti diatas
+
+<img width="458" height="311" alt="image" src="https://github.com/user-attachments/assets/62965c3f-0014-41ae-9d67-bd84d5ed5c46" />
+
+Pada pilihan 3 jika yang diinput seperti ctrl + c maka akan muncul pesan seperti diatas
+
+<img width="408" height="300" alt="image" src="https://github.com/user-attachments/assets/371edcd8-bc4b-475d-a21a-6fdb993792fe" />
+
+Pada pilihan 3 jika nik tidak terdaftar maka akan muncul pesan seperti diatas
+
+<img width="476" height="301" alt="image" src="https://github.com/user-attachments/assets/641ce943-4912-4c0c-b34f-d7cd0b866580" />
+
+Pada pilihan 4 jika nik yang dimasukkan bukanlah angka maka akan terjadi error seperti diatas
+
+<img width="471" height="312" alt="image" src="https://github.com/user-attachments/assets/382fee22-5c20-4df8-b7af-574234c8f05e" />
+
+Pada pilihan 4 jika yang diinput seperti ctrl + c maka akan muncul pesan seperti diatas
+
+<img width="424" height="308" alt="image" src="https://github.com/user-attachments/assets/7242db04-a4b4-4ab7-a298-b24b264bec4c" />
+
+Pada pilihan 4 jika nik tidak terdaftar maka akan muncul pesan seperti diatas
+
+<img width="412" height="319" alt="image" src="https://github.com/user-attachments/assets/f66becc2-bee9-4bc3-b8f3-07b75839bd66" />
+
+Pada pilihan 4 jika pada pertanyaan ya/tidak, malah menginput selain ya/tidak maka akan muncul pesan seperti diatas
+
+
+
+
+
+
+
+
+
+
+
+
