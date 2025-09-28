@@ -110,6 +110,7 @@ Pada pilihan 4 jika pada pertanyaan ya/tidak, malah menginput selain ya/tidak ma
 
 #Tampilan Keluar
 <br> <img width="368" height="247" alt="image" src="https://github.com/user-attachments/assets/b2fa7fc8-cb67-4fd4-ad1a-4a4a9891b892" />
+
 Ini adalah tampilan untuk menutup program
 
 
